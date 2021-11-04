@@ -1,0 +1,11 @@
+Algoritma menentukan nilai faktorial
+
+Inisialisasikan untuk variabel i, n
+Inisialisasikan untuk variabel Faktorial
+
+read(n)
+Faktorial <-- 1
+for i <-- 1 to n do
+	faktorial <-- faktorial*i
+end for
+
